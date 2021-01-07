@@ -1,2 +1,2 @@
 # Calculadora
-Um programa de calculadora que mostra todos os resultados possível de soma, subtração, multiplicação e divisão.
+Um programa de calcular numeros, onde ele que mostra todos os resultados possível de soma, subtração, multiplicação e divisão.
